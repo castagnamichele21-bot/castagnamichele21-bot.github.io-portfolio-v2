@@ -51,9 +51,6 @@ Nom_Prenom_Commande2_PortfolioV2/
 
 ## 🌐 Mise en ligne  
 
-### **Netlify**  
-👉 https://mon-portfolio.netlify.app  
-
 ### **GitHub Pages**  
 👉 https://castagnamichele21-bot.github.io/portfolio-v2  
 
